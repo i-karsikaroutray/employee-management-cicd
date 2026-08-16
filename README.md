@@ -230,15 +230,18 @@ http://<EC2-PUBLIC-IP>:5000
 
 ### Docker Container
 
-*Add Docker screenshot here.*
+<img width="1887" height="69" alt="docker-container" src="https://github.com/user-attachments/assets/1365d4fb-6cb5-4443-ba13-3b9e693feb91" />
+
 
 ### Jenkins Pipeline
 
-*Add Jenkins successful pipeline screenshot here.*
+<img width="1915" height="974" alt="jenkins" src="https://github.com/user-attachments/assets/aff51777-e86e-430d-a41c-de913c86b8e7" />
+
 
 ### GitHub Webhook
 
-*Add successful GitHub webhook screenshot here.*
+<img width="1903" height="619" alt="webhook" src="https://github.com/user-attachments/assets/e5717b77-36f8-408c-9afb-5de231e0e3d8" />
+
 
 ## Project Structure
 
