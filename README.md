@@ -68,3 +68,4 @@ This project is a Flask-based Employee Management System deployed on AWS using a
 * CI/CD using Jenkins
 * Infrastructure automation using Terraform
 * Kubernetes deployment
+
